@@ -1,0 +1,19 @@
+.cards {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+    }
+    .card {
+      border: 1px solid #ccc;
+      padding: 10px;
+      width: 200px;
+      text-align: center;
+    }
+    .card img {
+      width: 100px;
+      height: 100px;
+    }
+    .price {
+      font-weight: bold;
+      color: green;
+    }
